@@ -2,7 +2,7 @@
 0xalwayslucky :: ~ >> ./exploit.py
 [+] attacking /dev/brain
 [+] target vulnerable
-[+] authentication successful
+[+] authentication bypassed
 [+] dumping interests
 [*] binary exploitation
 [*] network security
