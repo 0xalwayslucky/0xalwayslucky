@@ -14,7 +14,8 @@ Traceback (most recent call last):
 IndexError: list index out of range
 
 0xalwayslucky :: ~ >> vim exploit.py
-
-
-
+___________________________________________________________________________________________________________________
+exploit.py ______________________________________________________________________________________________ < buffers
+1 #!/usr/bin/env python3
+2 from pwn import *
 ```
